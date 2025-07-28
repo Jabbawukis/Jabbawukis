@@ -1,5 +1,7 @@
 # 💫 About Me:
-Sample Evaluation of LM
+M.Sc. in Computer Science 
+
+Interested in Machine Learning | NLP
 
 
 ## 🌐 Socials:
